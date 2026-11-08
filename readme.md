@@ -1,5 +1,5 @@
 [![](https://img.shields.io/badge/Windows-11-2376bc?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/en-us/windows/windows-11)
-[![](https://img.shields.io/badge/Fedora-43-51A2DA?style=flat-square&logo=fedora&logoColor=ffffff)](https://fedoraproject.org/)
+[![](https://img.shields.io/badge/Fedora-45-51A2DA?style=flat-square&logo=fedora&logoColor=ffffff)](https://fedoraproject.org/)
 
 [![](https://img.shields.io/badge/Browser-Firefox-FF7139?style=flat-square&logo=firefox&logoColor=ffffff)](https://www.mozilla.org/firefox/)
 [![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=ffffff)](https://code.visualstudio.com/)
